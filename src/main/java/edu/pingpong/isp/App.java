@@ -4,7 +4,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        
+        System.out.println("========EJEMPLO PROCESADOR TEXTO========" + '\n');
 
         ProcesadorTexto procesador = new ProcesadorTexto();
 
